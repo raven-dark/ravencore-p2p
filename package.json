@@ -56,7 +56,7 @@
     "url": "https://github.com/underdarkskies/ravencore-p2p.git"
   },
   "dependencies": {
-    "ravencore-lib": "underdarkskies/ravencore-lib",
+    "ravencore-lib": "underdarkskies/ravencore-lib#DEV",
     "bloom-filter": "^0.2.0",
     "buffers": "underdarkskies/node-buffers#v0.1.2-underdarkskies",
     "socks5-client": "^0.3.6"
